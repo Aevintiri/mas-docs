@@ -4,7 +4,7 @@ All download links lead to Official Microsoft files only including the activator
 
 ## Office Activator
 
-:::info[Activation Guide]
+:::info[Activation Guide][**THIS METHOD NO LONGER WORKS AND HAS BEEN FIXED BY MICROSOFT**]
 
 - Run this tool https://office-reset.com/ to reset the Office licenses. (Skip this if you never opened Office apps on your macOS)
 - Now run the below listed activator pkg file and install. (**Don't open Office before installing pkg file**)
